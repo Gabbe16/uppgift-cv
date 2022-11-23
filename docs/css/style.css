@@ -1,48 +1,37 @@
 .container {
     width: min(80ch, 100vw - 2rem);
     margin-inline: auto;
-
     color: #4604D2;
 }
 
+
 .site-head {
     background-color: #943CEC;
+    padding: 1rem;
 }
 
-.logotyp {
-    max-width: 100%;
-    width: 20ch;
-    height: auto;
-    border-radius: 100%;
-}
-
-img {
-    max-width: 100%;
-    height: auto;
-}
 
 nav {
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
     align-items: center;
 }
+
 
 nav > ul {
     list-style: none;
     display: flex;
-    
-    gap: 8rem;
+    gap: 2rem;
     padding: 0;
 }
 
-.hero {
-    display: grid;
-    grid-template-areas: stack;
+
+.hero > img {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
 }
 
-.hero > * {
-    grid-area: stack;
-}
 
 footer {
     padding-top: 3rem;

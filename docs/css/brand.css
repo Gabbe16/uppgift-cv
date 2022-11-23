@@ -1,35 +1,30 @@
 body {
     padding: 0;
     margin: 0;
-
     background-color: #B874E2;
     font-family: 'Vesper Libre', serif;
 }
 
+article {
+    padding: 1rem;
+}
+
 main {
-    padding: 2rem;
     margin: 0;
-    
     background-color: #FDEA85;
 }
+
 
 nav {
     font-family: 'Vesper Libre', serif;
 }
 
+
 a {
     color: #FDEA85;
 }
 
+
 a:hover {
     color: #4604D2;
-}
-
-.logo {
-    text-decoration: none;
-    color: blueviolet;
-}
-
-.sidenav {
-    background-color: #943CEC;
 }
