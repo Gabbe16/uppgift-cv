@@ -23,6 +23,7 @@ nav > ul {
     display: flex;
     gap: 2rem;
     padding: 0;
+    font-size: 20px;
 }
 
 
