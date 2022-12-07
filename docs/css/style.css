@@ -1,12 +1,10 @@
 .container {
     width: min(80ch, 100vw - 2rem);
     margin-inline: auto;
-    color: #4604D2;
 }
 
-
 .site-head {
-    background-color: #943CEC;
+    background-color: #6612BA;
     padding: 1rem;
 }
 
@@ -35,6 +33,7 @@ nav > ul {
 
 
 footer {
+    color: black;
     padding-top: 3rem;
     padding-bottom: 3rem;
 }
