@@ -50,9 +50,18 @@ Jag rekommenderar att du baserar din grundläggande layout kring något av de ex
 
 ### Dokumentera
 När arbetet är klart så reflekterar du utöver din process och dokumenterar det i din loggbok.
+
 * Vad har gått bra med HTML/CSS/MEDIA.
+
+- Att göra basen med html har gått väldigt bra för att sen använda mig av css för att kunna styla. Mer specefikt med css:en gick det väldigt bra att ändra färger, font size och använda klasser för styles som jag vill ha på min egna sida. Jag har inte använt mig av några media regler.
+
 * Vad behöver/vill du lära dig mer om utifrån dessa delar.
+
+- Jag vill lära mig mer om css allmänt eftersom jag tycker att html är relativt enkelt att arbeta med. Om jag ska vara mer specefik så vill jag veta hur search-bars fungerar men också hur man gör länkar som leder någonstans.
+
 * Hur gick validering och tester. Skriv om fel, varningar och saker du ändrat på.
+
+- Validering för html gick bra eftersom det bara var små fel som jag hade gjort. Det var t.ex en br-tagg i en lista och jag hade ändrat font size här också vilket jag borde gjort i css istället. Efter detta var fixat fungerade allt utan problem. Validering för css gick bara bra eftersom det var inga varningar eller fel. 
 
 ## Inlämning
 
