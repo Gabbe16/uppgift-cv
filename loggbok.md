@@ -36,3 +36,22 @@ V.47
 - Idag har jag tagit bort onödig kod, gjort koden mer läsbar och även fixat till navigationen med loggan men också bilden som är i mitten. Jag gjorde även så att hemsidan passar bra för mobiler. Allt detta blev klart efter dagens lektion och jag är personligen väldigt nöjd med detta projekt.
 
 - Detta har varit svårare än vanligt eftersom det var många problem som var kopplade till min css med både logga och bild. Jag har fått hjälp av Jens och tillsamamans löste sig problemen tillslut för att få en sida som fungerar relativt bra.
+
+## Checklista
+- hosting fungerar
+- resurser och relativa sökvägar fungerar 
+- Länkarna fungerar men man kommer ingestans
+- Sidans innehåll och resurser hostas på github eller CDN
+- Html validering fungerar utan problem
+- Css validering fungerar utan problem
+- Struktur är korrekt (shift + alt + f, formatering)
+- Sidan använder semantiska strukturelement
+- Sidans innehåll är nästan likadant som i figma. Jag har bara flyttat på loggan och länkarna.
+- Sidan följer alla relevanta lagar och regler för publicering på webben
+- Fungerar bra på mobil
+- Fungerar bra på dator
+- Inga kontrastfel på hemsidan
+- Sidans media är tillräckligt bra optimerat
+- Sidan fungerar bra utan javascript eftersom jag inte har något just nu
+- Sidan fungerar bra utan css
+- Google lighhouse gav 83 prestanda, 100 tillgänglighet, 92 bästa metoder och 92 SEO
